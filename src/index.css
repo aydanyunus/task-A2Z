@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient {
+  background: linear-gradient(
+      90deg,
+      rgba(106, 33, 244, 0) 0%,
+      rgba(106, 33, 244, 0.9) 44.79%
+    ),
+    radial-gradient(
+      49.08% 52.1% at 49.96% 50.21%,
+      rgba(106, 33, 244, 0.5) 0%,
+      rgba(18, 20, 45, 0) 100%
+    );
+}
+
+.border-spacing-0-8 {
+  border-spacing: 0px 8px;
+}
+
+.border-spacing-0-16 {
+  border-spacing: 0px 16px;
+}
+
+@media screen and (min-width: 639px) and (max-width: 922px) {
+  .live thead {
+    display: none;
+  }
+  .live td {
+    display: flex;
+    justify-content: center;
+  }
+  .live tr {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+}

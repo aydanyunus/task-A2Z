@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "rank": 1,
+    "image": {
+      "path": "../ru.png",
+      "alt_text": "ru"
+    },
+    "team": "rus",
+    "bib": 212,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 2,
+    "rank": 2,
+    "image": {
+      "path": "../est.png",
+      "alt_text": "est"
+    },
+    "team": "est",
+    "bib": 132,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 3,
+    "rank": 3,
+    "image": {
+      "path": "../pt.png",
+      "alt_text": "pt"
+    },
+    "team": "por",
+    "bib": 624,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 4,
+    "rank": 4,
+    "image": {
+      "path": "../isr.png",
+      "alt_text": "isr"
+    },
+    "team": "isr",
+    "bib": 624,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 5,
+    "rank": 5,
+    "image": {
+      "path": "../pl.png",
+      "alt_text": "pl"
+    },
+    "team": "pol",
+    "bib": 401,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 6,
+    "rank": 6,
+    "image": {
+      "path": "../nl.png",
+      "alt_text": "nl"
+    },
+    "team": "ned",
+    "bib": 102,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  },
+  {
+    "id": 7,
+    "rank": 7,
+    "image": {
+      "path": "../gb.png",
+      "alt_text": "gb"
+    },
+    "team": "gbr",
+    "bib": 102,
+    "name": "Bonartsev Aleksandr",
+    "categoryD": 43.833,
+    "categoryE": 43.833,
+    "pen": 43.833,
+    "total": 102.256
+  }
+]

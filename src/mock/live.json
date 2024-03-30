@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "icon": "../floor.png",
+    "image": {
+      "path": "../aze.png",
+      "alt_text": "aze"
+    },
+    "team": "aze",
+    "bib": 212,
+    "name": "Amirbekov T.",
+    "categoryD": 5.400,
+    "categoryE": 8.800,
+    "pen": 0.3,
+    "appScore": {
+      "score": 12.500,
+      "rank": 7
+    },
+    "aaScore": {
+      "score": 102.360,
+      "rank": 4
+    },
+    "teamScore": {
+      "score": 102.360,
+      "rank": 12
+    }
+  },
+  {
+    "id": 2,
+    "icon": "../pommel.png",
+    "image": {
+      "path": "../ru.png",
+      "alt_text": "ru"
+    },
+    "team": "rus",
+    "bib": 132,
+    "name": "Amirbekov T.",
+    "wait":true,
+    "go":false
+  },
+  {
+    "id": 3,
+    "icon": "../rings.png",
+    "image": {
+      "path": "../tr.png",
+      "alt_text": "tr"
+    },
+    "team": "tur",
+    "bib": 624,
+    "name": "Terim F.",
+    "categoryD": 5.4000,
+    "categoryE": 8.800,
+    "pen": 0.3,
+    "appScore": {
+      "score": 12.500,
+      "rank": 7
+    },
+    "aaScore": {
+      "score": 102.360,
+      "rank": 4
+    },
+    "teamScore": {
+      "score": 102.360,
+      "rank": 12
+    }
+  },
+  {
+    "id": 4,
+    "icon": "../vt.png",
+    "image": {
+      "path": "../fr.png",
+      "alt_text": "fr"
+    },
+    "team": "fra",
+    "bib": 624,
+    "name": "Terim F.",
+    "wait":false,
+    "go":true
+  },
+  {
+    "id": 5,
+    "icon": "../pbar.png",
+    "image": {
+      "path": "../isr.png",
+      "alt_text": "isr"
+    },
+    "team": "isr",
+    "bib": 401,
+    "name": "Wiltord T.",
+    "categoryD": 5.400,
+    "categoryE": 8.800,
+    "pen": 0.3,
+    "appScore": {
+      "score": 12.500,
+      "rank": 16
+    },
+    "aaScore": {
+      "score": 102.360,
+      "rank": 8
+    },
+    "teamScore": {
+      "score": 102.360,
+      "rank": 17
+    }
+  },
+  {
+    "id": 6,
+    "icon": "../hbar.png",
+    "image": {
+      "path": "../ger.png",
+      "alt_text": "ger"
+    },
+    "team": "ger",
+    "bib": 102,
+    "name": "Bakaev J.",
+    "categoryD": 5.400,
+    "categoryE": 8.800,
+    "pen": 0.3,
+    "appScore": {
+      "score": 12.500,
+      "rank": 16
+    },
+    "aaScore": {
+      "score": 102.360,
+      "rank": 8
+    },
+    "teamScore": {
+      "score": 102.360,
+      "rank": 17
+    }
+  },
+  {
+    "id": 7,
+    "submitted":true,
+    "icon": "../hbar.png",
+    "image": {
+      "path": "../ger.png",
+      "alt_text": "ger"
+    },
+    "team": "ger",
+    "bib": 102,
+    "name": "Bakaev J.",
+    "categoryD": 5.400,
+    "categoryE": 8.800,
+    "pen": 0.3,
+    "appScore": {
+      "score": 12.500,
+      "rank": 16
+    },
+    "aaScore": {
+      "score": 102.360,
+      "rank": 8
+    },
+    "teamScore": {
+      "score": 102.360,
+      "rank": 17
+    }
+  }
+]
